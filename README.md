@@ -1,2 +1,2 @@
 # IA_tabelas
-Tabelas para o trabalho de IA.
+Neste repositório podem ser encontradas o notebook com as tabelas do trabalho.
